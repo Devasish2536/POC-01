@@ -1,0 +1,16 @@
+Id,Name,Salary,Desg,Dept,Address
+1011,Alpha,25000,Engg,Mech,IND
+1012,Bravo,35000,Engg,Inst,IND
+1013,Charlie,15000,Tech,Mech,IND
+1014,Delta,20000,Tech,Elec,IND
+1015,Echo,12000,Engg,Mech,IND
+1016,Foxtrot,15000,Engg,Mech,IND
+1017,Ghost,25000,Engg,Mech,IND
+1018,Hotel,40000,Doc,Heal,IND
+1019,India,35000,Doc,Heal,IND
+1020,Joker,52000,Doc,Heal,IND
+1021,Hotel,54333.33333,Doc,Heal,IND
+1022,India,60333.33333,Doc,Heal,IND
+1023,Joker,66333.33333,Doc,Heal,IND
+1024,Hotel,72333.33333,Doc,Heal,IND
+1025,India,78333.33333,Doc,Heal,IND
